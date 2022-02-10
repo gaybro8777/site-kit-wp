@@ -162,7 +162,7 @@
     "mini-css-extract-plugin": "^0.4.5",
     "natives": "^1.1.6",
     "node-qunit-phantomjs": "^2.0.1",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "polyfill-library": "^3.31.1",
     "postcss-loader": "^3.0.0",
     "postcss-preset-env": "^6.6.0",
